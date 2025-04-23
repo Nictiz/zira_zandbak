@@ -128,10 +128,10 @@
               href="ServingRelationship_id-afddeccbc94a435e8078cfdaace62b3e.xml#id-afddeccbc94a435e8078cfdaace62b3e"/>
         </sourceConnections>
         <bounds
-            x="30"
-            y="336"
+            x="22"
+            y="420"
             width="300"
-            height="61"/>
+            height="157"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-41e37fd4c4394600be74756dbba35683.xml#id-41e37fd4c4394600be74756dbba35683"/>
@@ -145,10 +145,10 @@
             name="deriveElementLineColor"
             value="false"/>
         <bounds
-            x="30"
-            y="240"
+            x="24"
+            y="72"
             width="300"
-            height="55"/>
+            height="301"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-cb1dcf91438e4cd698a54669af5ec0d4.xml#id-cb1dcf91438e4cd698a54669af5ec0d4"/>
@@ -240,7 +240,7 @@
         </sourceConnections>
         <bounds
             x="30"
-            y="590"
+            y="600"
             width="300"
             height="61"/>
         <archimateElement
@@ -298,9 +298,9 @@
         </sourceConnections>
         <bounds
             x="30"
-            y="140"
+            y="132"
             width="300"
-            height="365"/>
+            height="397"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4e35057111f44ecdb25344b8e659a032"
@@ -308,9 +308,33 @@
             fillColor="#e2dec3">
           <bounds
               x="20"
-              y="40"
+              y="24"
               width="261"
-              height="41"/>
+              height="85"/>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-861c7f192b664754a46e2cd60cfda57c">
+            <bounds
+                x="12"
+                y="24"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-e9f33ff14cca4332909bc4e48c767537.xml#id-e9f33ff14cca4332909bc4e48c767537"/>
+          </children>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-f83bcdec63554181b2711a83257a79a1">
+            <bounds
+                x="12"
+                y="54"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-e589f79f32f54f4b963ce88dcb210214.xml#id-e589f79f32f54f4b963ce88dcb210214"/>
+          </children>
           <archimateElement
               xsi:type="archimate:Capability"
               href="Capability_id-2b54e79a8a604343bb73b116702a5093.xml#id-2b54e79a8a604343bb73b116702a5093"/>
@@ -322,9 +346,21 @@
             fillColor="#e2dec3">
           <bounds
               x="20"
-              y="100"
+              y="120"
               width="261"
-              height="41"/>
+              height="61"/>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-e0dd119b1a8a4e5589b367d18451c0d2">
+            <bounds
+                x="12"
+                y="24"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-06d82e48c76b47c6b6c583987d523920.xml#id-06d82e48c76b47c6b6c583987d523920"/>
+          </children>
           <archimateElement
               xsi:type="archimate:Capability"
               href="Capability_id-f9662bd88a7d4a9db2a60b6e7ae08b35.xml#id-f9662bd88a7d4a9db2a60b6e7ae08b35"/>
@@ -336,9 +372,21 @@
             fillColor="#e2dec3">
           <bounds
               x="20"
-              y="160"
+              y="192"
               width="261"
-              height="41"/>
+              height="57"/>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-62d657341a88442b88dd5154fbc96d03">
+            <bounds
+                x="12"
+                y="24"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-bb905cddc30941f1a7bc306996c2b677.xml#id-bb905cddc30941f1a7bc306996c2b677"/>
+          </children>
           <archimateElement
               xsi:type="archimate:Capability"
               href="Capability_id-8555205a899d479c974ef5599ae5fcdf.xml#id-8555205a899d479c974ef5599ae5fcdf"/>
@@ -350,9 +398,21 @@
             fillColor="#e2dec3">
           <bounds
               x="20"
-              y="290"
+              y="324"
               width="261"
-              height="41"/>
+              height="59"/>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-272d1e59a31247f6bb6c17761a801601">
+            <bounds
+                x="12"
+                y="24"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-bb905cddc30941f1a7bc306996c2b677.xml#id-bb905cddc30941f1a7bc306996c2b677"/>
+          </children>
           <archimateElement
               xsi:type="archimate:Capability"
               href="Capability_id-5e904c1e18eb4e289b8d983c1e4f85c4.xml#id-5e904c1e18eb4e289b8d983c1e4f85c4"/>
@@ -364,9 +424,21 @@
             fillColor="#e2dec3">
           <bounds
               x="20"
-              y="220"
+              y="258"
               width="261"
-              height="41"/>
+              height="61"/>
+          <children
+              xsi:type="archimate:DiagramModelArchimateObject"
+              id="id-8f1bab154abd41c0959e7d2280d2599a">
+            <bounds
+                x="12"
+                y="24"
+                width="241"
+                height="25"/>
+            <archimateElement
+                xsi:type="archimate:ApplicationComponent"
+                href="ApplicationComponent_id-bb905cddc30941f1a7bc306996c2b677.xml#id-bb905cddc30941f1a7bc306996c2b677"/>
+          </children>
           <archimateElement
               xsi:type="archimate:Capability"
               href="Capability_id-fa33eb405e31492ba12e40532a90d672.xml#id-fa33eb405e31492ba12e40532a90d672"/>
@@ -384,9 +456,21 @@
             value="false"/>
         <bounds
             x="30"
-            y="520"
+            y="540"
             width="300"
             height="55"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-424eecb2adb6456f9a6acc12029004a7">
+          <bounds
+              x="36"
+              y="24"
+              width="241"
+              height="25"/>
+          <archimateElement
+              xsi:type="archimate:ApplicationComponent"
+              href="ApplicationComponent_id-4b0fb953c3244b8f94cd56d1e88b1ed4.xml#id-4b0fb953c3244b8f94cd56d1e88b1ed4"/>
+        </children>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-41e37fd4c4394600be74756dbba35683.xml#id-41e37fd4c4394600be74756dbba35683"/>
@@ -556,7 +640,7 @@
         </sourceConnections>
         <bounds
             x="30"
-            y="160"
+            y="156"
             width="300"
             height="55"/>
         <archimateElement
@@ -782,9 +866,9 @@
           endX="-704"
           endY="203"/>
       <bendpoints
-          startX="290"
-          startY="-210"
-          endX="-704"
+          startX="294"
+          startY="-70"
+          endX="-710"
           endY="3"/>
     </sourceConnections>
     <bounds
@@ -815,9 +899,10 @@
           endX="-654"
           endY="290"/>
       <bendpoints
-          startX="340"
-          startY="-310"
-          endX="-654"/>
+          startX="342"
+          startY="-156"
+          endX="-660"
+          endY="-12"/>
     </sourceConnections>
     <bounds
         x="80"
