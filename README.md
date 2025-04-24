@@ -8,7 +8,7 @@ Dit is de zandbak Archimate model-repository voor de ZiRA doorontwikkelingen.
 * Kies menu "Collaboration/Import Remote Model to Workspace"
 * Eerst master password instellen (hierin zet Archi de remote credentials), daarna elke keer als je opnieuw Arch opstart
 * Dan:
-  * URL: https://github.com/mvdzel/ZiRA-archimate.git
+  * URL: https://github.com/Nictiz/zira_zandbak.git
   * uid: je eigen github username
   * pwd: je github personal access token
     * aanmaken in GitHub/Account/Settings/Developer Settings/Create Personal Access Token
